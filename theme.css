@@ -1,0 +1,93 @@
+li {
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+
+ul{
+  display: inline-block;
+  text-align: center;
+  color: #ffffff;
+}
+
+.nav_bar {
+  text-align: center;
+  background-color: #a8bbc1;
+  color: #ffffff;
+}
+
+body {
+  font-family: "Century Gothic";
+  margin: 0px;
+  color: #615B5B;
+
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+h1 {
+  margin: 0px;
+  color: white;
+}
+
+li > a:hover {
+  color:#a8bbc1;
+  background-color: #a8bbc1;
+}
+
+#mail {
+  position: fixed;
+  width: 300px;
+}
+#aboutme {
+  font-size: 25px;
+}
+
+#kids {
+  margin-top: -250px;
+}
+
+#mailto {
+  color: #615B5B;
+  margin-left: 20px;
+}
+
+.emaillist {
+  font-size: 25px;
+}
+
+
+#doubledutying{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#biking{
+  padding-left: 30px;
+  padding-right: 100px;
+}
+
+#cook{
+  padding-left: 150px;
+  padding-right: 100px;
+}
+
+#cookingimage{
+text-align: center;
+}
+
+#doubleduty{
+  font-size: 20px;
+}
+
+#bike{
+font-size: 20px;
+}
+
+#cooking{
+  font-size: 20px;
+}
