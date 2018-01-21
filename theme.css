@@ -49,6 +49,7 @@ li > a:hover {
 
 #kids {
   margin-top: -250px;
+  position: fixed;
 }
 
 #mailto {
