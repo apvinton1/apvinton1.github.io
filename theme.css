@@ -41,15 +41,15 @@ li > a:hover {
 
 #mail {
   position: fixed;
-  width: 300px;
+  width: 1450px;
 }
 #aboutme {
   font-size: 25px;
 }
 
 #kids {
+  width: 1450px;
   margin-top: -250px;
-  position: fixed;
 }
 
 #mailto {
